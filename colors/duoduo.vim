@@ -73,11 +73,11 @@ highlight PMenu guisp=#3d3d3d guifg=#eeeeee guibg=#3d3d3d gui=NONE ctermfg=255 c
 highlight SpecialKey guisp=NONE guifg=#292929 guibg=NONE gui=NONE ctermfg=235 cterm=NONE
 highlight Constant guisp=NONE guifg=#ffa0a0 guibg=NONE gui=NONE ctermfg=217 cterm=NONE
 highlight Tag guisp=NONE guifg=#ffa500 guibg=NONE gui=NONE ctermfg=214 cterm=NONE
-highlight String guisp=NONE guifg=#ff8a8a guibg=NONE gui=NONE ctermfg=210 cterm=NONE
+highlight String guisp=NONE guifg=#ed8aa9 guibg=NONE gui=NONE ctermfg=211 cterm=NONE
 highlight PMenuThumb guisp=#a8a8a8 guifg=#b2b2b2 guibg=#a8a8a8 gui=NONE ctermfg=249 ctermbg=248 cterm=NONE
 highlight MatchParen guisp=#008b8b guifg=NONE guibg=#008b8b gui=NONE ctermbg=30 cterm=NONE
 highlight Repeat guisp=NONE guifg=#f5f55d guibg=NONE gui=bold ctermfg=227 cterm=bold
-highlight Directory guisp=NONE guifg=#6ef5c8 guibg=NONE gui=NONE ctermfg=122 cterm=NONE
+highlight Directory guisp=NONE guifg=#c0c0fc guibg=NONE gui=NONE ctermfg=147 cterm=NONE
 highlight Structure guisp=NONE guifg=#deb887 guibg=NONE gui=bold ctermfg=180 cterm=bold
 highlight Macro guisp=NONE guifg=#d7d787 guibg=NONE gui=NONE ctermfg=186 cterm=NONE
 highlight DiffAdd guisp=#2c72ab guifg=NONE guibg=#2c72ab gui=NONE ctermbg=25 cterm=NONE
